@@ -138,13 +138,13 @@
     .about-page.about-section {
         padding-bottom: 180px;
     }
-    .blog-page-section {
+    .services-page-section {
         padding: 20px 0px 120px;
     }
-    .blog-detail-section .more-posts {
+    .services-detail-section .more-posts {
         margin-top: 120px;
     }
-    .blog-detail-section .lower-section {
+    .services-detail-section .lower-section {
         padding: 110px 0px 120px;
     }
     .contact-info-section {
@@ -286,7 +286,7 @@
     .page-title-three-section {
         padding-top: 120px;
     }
-    .blog-detail-section .inner-container blockquote {
+    .services-detail-section .inner-container blockquote {
         padding-left: 0px;
     }
     .contact-form-section .inner-container {
@@ -314,32 +314,32 @@
     .about-page.about-section {
         padding-bottom: 120px;
     }
-    .blog-page-section .pagination-outer {
+    .services-page-section .pagination-outer {
         margin-top: 0;
     }
-    .blog-detail-section .inner-container h4 {
+    .services-detail-section .inner-container h4 {
         margin-bottom: 30px;
     }
-    .blog-detail-section .image-box {
+    .services-detail-section .image-box {
         margin-bottom: 67px;
     }
-    .blog-detail-section .inner-container p {
+    .services-detail-section .inner-container p {
         margin-bottom: 20px;
     }
-    .blog-detail-section .inner-container blockquote {
+    .services-detail-section .inner-container blockquote {
         margin-bottom: 30px;
         margin-top: 20px;
     }
-    .blog-detail-section .inner-container blockquote .quote-heading {
+    .services-detail-section .inner-container blockquote .quote-heading {
         margin-bottom: 20px;
     }
-    .blog-detail-section .inner-container .gallery-column {
+    .services-detail-section .inner-container .gallery-column {
         margin-top: 50px;
     }
-    .blog-detail-section .post-share-options {
+    .services-detail-section .post-share-options {
         margin-top: 40px;
     }
-    .blog-detail-section .more-posts {
+    .services-detail-section .more-posts {
         margin-top: 73px;
     }
     .about-section {
@@ -688,24 +688,24 @@
     .challenge-section .challenge-column {
         text-align: center;
     }
-    .blog-page-section .filters li {
+    .services-page-section .filters li {
         padding: 0px 10px;
     }
     .page-title-three-section h1 {
         font-size: 40px;
         line-height: 1.4em;
     }
-    .blog-detail-section .inner-container h4 br {
+    .services-detail-section .inner-container h4 br {
         display: none;
     }
-    .blog-detail-section .more-posts .pull-left,
-    .blog-detail-section .more-posts .pull-right,
+    .services-detail-section .more-posts .pull-left,
+    .services-detail-section .more-posts .pull-right,
     .project-description-section .more-posts .pull-left,
     .project-description-section .more-posts .pull-right {
         width: 100%;
         text-align: center;
     }
-    .blog-detail-section .more-posts .next-posts,
+    .services-detail-section .more-posts .next-posts,
     .project-description-section .more-posts .next-posts {
         margin-top: 20px;
     }
@@ -797,22 +797,22 @@
     .about-page.about-section {
         padding-bottom: 80px;
     }
-    .blog-page-section {
+    .services-page-section {
         padding: 20px 0px 73px;
     }
-    .blog-detail-section .more-posts {
+    .services-detail-section .more-posts {
         padding-bottom: 75px;
     }
-    .blog-detail-section .lower-section {
+    .services-detail-section .lower-section {
         padding: 80px 0px 80px;
     }
-    .blog-detail-section .more-posts {
+    .services-detail-section .more-posts {
         margin-top: 50px;
     }
-    .blog-detail-section .post-share-options .social-box {
+    .services-detail-section .post-share-options .social-box {
         margin-top: 20px;
     }
-    .blog-detail-section .post-share-options {
+    .services-detail-section .post-share-options {
         margin-top: 20px;
     }
     .map-section iframe {
@@ -862,11 +862,11 @@
     .page-title-two-section h1 {
         font-size: 50px;
     }
-    .blog-detail-section .lower-section .comments-area .comment .comment-inner,
-    .blog-detail-section .lower-section .comments-area .comment {
+    .services-detail-section .lower-section .comments-area .comment .comment-inner,
+    .services-detail-section .lower-section .comments-area .comment {
         padding-left: 0px;
     }
-    .blog-detail-section .lower-section .comments-area .comment-box .author-thumb {
+    .services-detail-section .lower-section .comments-area .comment-box .author-thumb {
         position: relative;
     }
     .contact-form-section .inner-container {

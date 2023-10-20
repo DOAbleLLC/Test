@@ -2112,9 +2112,9 @@ img {
 }
 
 .banner-section .content-boxed .content {
-    position: relative;
+    position: absolute;
     color: #ffffff;
-    font-weight: 700;
+    font-weight: 900;
     transform-origin: top;
     text-transform: uppercase;
     -webkit-transition: all 1000ms ease;
@@ -2122,10 +2122,10 @@ img {
     -ms-transition: all 1000ms ease;
     -o-transition: all 1000ms ease;
     transition: all 1000ms ease;
-    font-size: 24px;
-    line-height: 30px;
+    font-size: 27px;
+    line-height: 50px;
     text-align: center;
-    max-width: 300px;
+    max-width: 600px;
     letter-spacing: .25;
 }
 

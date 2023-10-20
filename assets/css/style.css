@@ -1378,7 +1378,7 @@ img {
     -webkit-transition: all 500ms ease;
     -ms-transition: all 500ms ease;
     -o-transition: all 500ms ease;
-    background-color: #222222;
+    background-color: rgba(113, 30, 215, 0.4);
     border-bottom: 1px solid rgba(255, 255, 255, 0.10);
 }
 
@@ -1477,7 +1477,7 @@ img {
 }
 
 .header-style-two.fixed-header .header-upper {
-    background-color: #ffffff;
+    background-color: rgba(255, 255, 255, 0.4);
     border-color: rgba(0, 0, 0, 0.07);
 }
 
@@ -1493,7 +1493,8 @@ img {
     color: #000000;
 }
 
-.header-style-two .main-menu .navigation>li:hover>a {
+.header-style-two .main-menu .navigation>li:hover>a,
+.header-style-two .main-menu .navigation>li.current>a {
     color: #7300ff;
 }
 
@@ -1700,7 +1701,7 @@ img {
     text-align: center;
     font-size: 16px;
     line-height: 52px;
-    color: #404040;
+    color: #7300ff;
     cursor: pointer;
     z-index: 5;
 }

@@ -211,6 +211,7 @@ p {
 .auto-container {
     position: static;
     max-width: 1200px;
+    /* max-height: 950px; */
     padding: 0px 15px;
     margin: 0 auto;
 }
@@ -798,7 +799,7 @@ img {
     float: left;
     left: 0px;
     z-index: 10;
-    padding: 30px 0px;
+    padding: 0px 0px;
 }
 
 .main-header .main-box .logo-box .logo img {
@@ -3522,7 +3523,7 @@ img {
 
 .main-footer .footer-widget .logo {
     position: relative;
-    text-align: center;
+    text-align: right;
     margin-bottom: 25px;
 }
 

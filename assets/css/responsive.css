@@ -70,7 +70,7 @@
         margin-bottom: 50px;
     }
     .about-section .image .image-left {
-        box-shadow: -60px 60px 0px 0px rgba(249, 243, 231, 1);
+        box-shadow: -60px 60px 0px 0px rgb(245, 231, 249);
     }
     .services-section {
         padding: 0px 0px 120px;
@@ -391,7 +391,7 @@
         margin: 0 0 100px;
     }
     .about-section .image .image-left {
-        box-shadow: -30px 40px 0px 0px rgba(249, 243, 231, 1);
+        box-shadow: -30px 40px 0px 0px rgb(245, 231, 249);
     }
     .sec-title .text br {
         display: none;

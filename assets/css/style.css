@@ -2185,7 +2185,7 @@ img {
 
 .slider-icon-scroll span {
     font-size: 48px;
-    color: #000000;
+    color: #ffff;
     transition: .3s;
 }
 
@@ -2206,11 +2206,12 @@ img {
 .shape-image img {
     display: inline-block;
     margin: auto;
+    width: 400px;
     position: absolute;
     top: auto;
     left: 0;
     right: 0;
-    bottom: -130px;
+    bottom: -250px;
 }
 
 
@@ -2348,11 +2349,11 @@ img {
     -ms-border-radius: 50%;
     -o-border-radius: 50%;
     border-radius: 50%;
-    -webkit-box-shadow: 0 0 0 0 rgba(241, 163, 26, .6);
-    -moz-box-shadow: 0 0 0 0 rgba(241, 163, 26, .6);
-    -ms-box-shadow: 0 0 0 0 rgba(241, 163, 26, .6);
-    -o-box-shadow: 0 0 0 0 rgba(241, 163, 26, .6);
-    box-shadow: 0 0 0 0 rgba(241, 163, 26, .6);
+    -webkit-box-shadow: 0 0 0 0 rgba(115, 0, 225, .6);
+    -moz-box-shadow: 0 0 0 0 rgba(115, 0, 225, .6);
+    -ms-box-shadow: 0 0 0 0 rgba(115, 0, 225, .6);
+    -o-box-shadow: 0 0 0 0 rgba(115, 0, 225, .6);
+    box-shadow: 0 0 0 0 rgba(115, 0, 225, .6);
     -webkit-animation: ripple 3s infinite;
     -moz-animation: ripple 3s infinite;
     -ms-animation: ripple 3s infinite;
@@ -2382,19 +2383,19 @@ img {
 
 @-webkit-keyframes ripple {
     70% {
-        box-shadow: 0 0 0 70px rgba(253, 167, 0, 0);
+        box-shadow: 0 0 0 70px rgba(115, 0, 225, 0);
     }
     100% {
-        box-shadow: 0 0 0 0 rgba(253, 167, 0, 0);
+        box-shadow: 0 0 0 0 rgba(115, 0, 225, 0);
     }
 }
 
 @keyframes ripple {
     70% {
-        box-shadow: 0 0 0 70px rgba(253, 167, 0, 0);
+        box-shadow: 0 0 0 70px rgba(115, 0, 225, 0);
     }
     100% {
-        box-shadow: 0 0 0 0 rgba(253, 167, 0, 0);
+        box-shadow: 0 0 0 0 rgba(115, 0, 225, 0);
     }
 }
 

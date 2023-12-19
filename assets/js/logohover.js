@@ -13,6 +13,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const hoverImage = new Image();
     hoverImage.src = newSrc;
     hoverImage.style.position = 'absolute';
+    hoverImage.alt = 'Doable Group logo';
     hoverImage.style.opacity = 0;
     hoverImage.style.transition = 'opacity 0.3s';
     hoverImage.style.zIndex = '1'; // Ensure the overlay image is above the original image

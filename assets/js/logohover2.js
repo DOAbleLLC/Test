@@ -12,6 +12,7 @@ document.addEventListener("DOMContentLoaded", function() {
     // Create a new image element for the hover image
     const hoverImage = new Image();
     hoverImage.src = newSrc;
+    hoverImage.alt = 'Doable Group logo';
     hoverImage.style.position = 'absolute';
     hoverImage.style.opacity = 0;
     hoverImage.style.transition = 'opacity 0.3s';

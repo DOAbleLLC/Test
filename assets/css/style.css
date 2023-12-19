@@ -260,7 +260,7 @@ img {
 }
 
 .background-color-gray-light {
-    background-color: #f2f5fa;
+    background-color: #ffffff;
 }
 
 
@@ -842,7 +842,7 @@ img {
 }
 
 .main-header.fixed-header .main-menu .navigation>li>a {
-    color: #ffffff;
+    color: #0d0d0d;
 }
 
 .main-header.fixed-header.header-style-two .main-menu .navigation>li>a {
@@ -1107,7 +1107,7 @@ img {
 .main-menu .navigation>li>a {
     position: relative;
     display: block;
-    color: #ffffff;
+    color: #0d0d0d;
     text-align: center;
     line-height: 30px;
     text-transform: uppercase;
@@ -1522,7 +1522,7 @@ img {
     font-size: 40px;
     line-height: 50px;
     cursor: pointer;
-    color: #ffffff;
+    color: #0d0d0d;
     display: none;
     transition: all 500ms ease;
     -moz-transition: all 500ms ease;
@@ -2186,7 +2186,7 @@ img {
 
 .slider-icon-scroll span {
     font-size: 48px;
-    color: #ffff;
+    color: #0d0d0d;
     transition: .3s;
 }
 
@@ -2701,7 +2701,7 @@ img {
 
 .service-block .inner-box .number {
     position: relative;
-    color: #cccccc;
+    color: #7300ff;
     font-size: 16px;
     letter-spacing: 6px;
     position: absolute;
@@ -2805,6 +2805,7 @@ img {
 .testimonial-section {
     position: relative;
     padding: 180px 0px 0px;
+    padding-bottom: 30px;
 }
 
 .testimonial-section .owl-dots {
@@ -2915,14 +2916,14 @@ img {
 
 .testimonial-block .inner-box .content .author span {
     position: relative;
-    color: #999999;
+    color: #7300ff;
     font-size: 14px;
     font-weight: 400;
 }
 
 .testimonial-block .inner-box .content .author i {
     position: relative;
-    color: #a1d611;
+    color: #7300ff;
     font-size: 14px;
     font-weight: 400;
     font-style: normal;
@@ -2930,7 +2931,7 @@ img {
 
 .testimonial-block .inner-box .text {
     position: relative;
-    color: #666666;
+    color: #0d0d0d;
     font-size: 16px;
     line-height: 1.8em;
     margin-top: 15px;
@@ -3084,7 +3085,7 @@ img {
 
 .team-block .inner-box .lower-box .designation {
     position: relative;
-    color: #999999;
+    color: #7300ff;
     font-size: 13px;
     margin-top: 4px;
 }
@@ -3702,13 +3703,13 @@ img {
     text-align: center;
     padding: 29% 0; /* Use percentages for padding to make it responsive */
     background-size: cover;
-    height: auto; /* Remove fixed height */
+    /* height: auto; Remove fixed height */
 }
 
 
 .page-title-section h1 {
     position: relative;
-    color: #ffffff;
+    color: #7300ff;
     font-size: 72px;
     font-weight: 700;
     line-height: 1.6em;
@@ -3782,7 +3783,7 @@ img {
 
 .page-title-two-section .page-breadcrumb li {
     position: relative;
-    color: #000000;
+    color: #7300ff;
     font-size: 18px;
     padding-right: 15px;
     margin-right: 10px;
@@ -3810,7 +3811,7 @@ img {
 
 .page-title-two-section .page-breadcrumb li a {
     position: relative;
-    color: #999999;
+    color: #0d0d0d;
     -webkit-transition: all 300ms ease;
     -ms-transition: all 300ms ease;
     -o-transition: all 300ms ease;
@@ -3819,7 +3820,7 @@ img {
 }
 
 .page-title-two-section .page-breadcrumb li a:hover {
-    color: #000000;
+    color: #7300ff;
 }
 
 
@@ -5394,3 +5395,14 @@ img {
     font-weight: none;
     color: black;
   }
+
+  .sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+}

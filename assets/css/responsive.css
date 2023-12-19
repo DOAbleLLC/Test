@@ -172,7 +172,13 @@
     }
 }
 
-@media only screen and (max-width: 991px) {
+@media only screen and (max-width: 768px) {
+    .page-title-section {
+        background-position: center center;
+    }
+}
+
+@media only screen and (max-width: 768px) {
     .main-header .sticky-header .pull-right {
         width: 100%;
     }
@@ -272,7 +278,7 @@
         letter-spacing: 4px;
     }
     .page-title-section {
-        padding: 100px 0px 100px;
+        padding: 400px 0px 100px;
     }
     .page-title-section h1 {
         letter-spacing: 5px;
@@ -710,7 +716,7 @@
         margin-top: 20px;
     }
     .about-section {
-        padding: 80px 0px 77px;
+        padding: 360px 0px 77px;
     }
     .services-section {
         padding-bottom: 80px;

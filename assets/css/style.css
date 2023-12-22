@@ -3934,7 +3934,7 @@ img {
 
 .challenge-section .challenge-column .title {
     position: relative;
-    color: #999999;
+    color: #7300ff;
     font-size: 14px;
     letter-spacing: 1px;
     text-transform: uppercase;
@@ -4466,7 +4466,7 @@ img {
 
 .page-title-three-section .page-breadcrumb li:nth-child(2) {
     position: relative;
-    color: #999999;
+    color: #7300ff;
     font-size: 16px;
     font-weight: 400;
 }
@@ -4484,7 +4484,7 @@ img {
     content: '/';
     right: -3px;
     top: 0px;
-    color: #999999;
+    color: #7300ff;
 }
 
 .page-title-three-section .page-breadcrumb li:last-child {
@@ -4806,7 +4806,7 @@ img {
 
 .services-detail-section .more-posts a {
     position: relative;
-    color: #999999;
+    color: #0d0d0d;
     font-size: 24px;
     text-transform: capitalize;
     -webkit-transition: all 300ms ease;

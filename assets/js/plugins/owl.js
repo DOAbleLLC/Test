@@ -2963,11 +2963,11 @@
 	Navigation.Defaults = {
 		nav: false,
 		navText: [
-			'<button type="button" role="presentation" aria-label="Previous" class="owl-prev">&#x2039;</button>',
-			'<button type="button" role="presentation" aria-label="Next" class="owl-next">&#x203a;</button>'
+			'<button type="button" role="presentation" aria-label="Previous" class="owl-prev"><span class="nav-text">Previous</span>&nbsp;&#x2039;</button>',
+			'<button type="button" role="presentation" aria-label="Next" class="owl-next"><span class="nav-text">Next</span>&nbsp;&#x203a;</button>'
 		],
 		navSpeed: false,
-		navElement: 'button type="button" role="presentation"',
+		navElement: 'button type="button" role="presentation" aria-label="Button"',
 		navContainer: false,
 		navContainerClass: 'owl-nav',
 		navClass: [

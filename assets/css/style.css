@@ -73,7 +73,7 @@
 body {
     font-family: 'DM Sans', sans-serif;
     font-size: 14px;
-    color: #777777;
+    color: #555555;
     line-height: 1.7em;
     font-weight: 400;
     background: #ffffff;
@@ -110,8 +110,8 @@ button,
 a:hover,
 a:focus,
 a:visited {
-    text-decoration: none;
-    outline: none !important;
+    /* text-decoration: none; */
+    /* outline: none !important; */
 }
 
 h1,
@@ -3119,6 +3119,13 @@ img {
     transform: scale(1, 1);
 }
 
+.team-block:focus .inner-box .overlay-content {
+    opacity: 1;
+    visibility: visible;
+    transform: scale(1, 1);
+}
+
+
 .team-block .inner-box .overlay-content .text {
     position: relative;
     color: #000000;
@@ -3162,6 +3169,9 @@ img {
     color: #7300ff;
 }
 
+.team-block.inner-box:focus .overlay-content {
+    display: block;
+}
 
 /*** 
 
@@ -5405,4 +5415,15 @@ img {
     overflow: hidden;
     clip: rect(0, 0, 0, 0);
     border: 0;
+}
+
+body *:focus {
+    outline: 2px solid #0d0d0d; /* Change the color to your preference */
+    outline-offset: 2px;
+}
+
+/* Apply styling when an image receives focus */
+  img:focus {
+    outline: 2px solid #0d0d0d; /* Change the color as needed */
+    outline-offset: 2px;
 }

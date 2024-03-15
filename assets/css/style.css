@@ -30,7 +30,7 @@
 
 /*
 	
-	font-family: 'DM Sans', sans-serif;
+	font-family: 'Cantrell', sans-serif;
 	font-family: 'Karla', sans-serif;
 	
 */
@@ -71,7 +71,7 @@
  ***/
 
 body {
-    font-family: 'DM Sans', sans-serif;
+    font-family: 'Cantrell', sans-serif;
     font-size: 14px;
     color: #555555;
     line-height: 1.7em;
@@ -125,7 +125,7 @@ h6 {
     margin: 0px;
     background: none;
     line-height: 1.6em;
-    font-family: 'DM Sans', sans-serif;
+    font-family: 'Cantrell', sans-serif;
 }
 
 .pull-left {
@@ -278,7 +278,7 @@ img {
     border-radius: 50px;
     background-color: #7300ff;
     text-transform: capitalize;
-    font-family: 'DM Sans', sans-serif;
+    font-family: 'Cantrell', sans-serif;
 }
 
 .btn-style-one:before {
@@ -336,7 +336,7 @@ img {
     border-radius: 50px;
     text-transform: capitalize;
     background-color: #7300ff;
-    font-family: 'DM Sans', sans-serif;
+    font-family: 'Cantrell', sans-serif;
     box-shadow: 0px 0px 25px rgba(0, 155, 114, 0.15);
 }
 
@@ -395,7 +395,7 @@ img {
     background: none;
     border: 1px solid #7300ff;
     text-transform: capitalize;
-    font-family: 'DM Sans', sans-serif;
+    font-family: 'Cantrell', sans-serif;
 }
 
 .btn-style-three:before {
@@ -510,7 +510,7 @@ img {
     -ms-transform: translate(-50%, -50%);
     -webkit-transform: translate(-50%, -50%);
     -moz-transform: translate(-50%, -50%);
-    font-family: 'DM Sans', sans-serif;
+    font-family: 'Cantrell', sans-serif;
     text-transform: uppercase;
     font-weight: 900;
     font-size: 18px;
